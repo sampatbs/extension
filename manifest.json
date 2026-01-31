@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Task4 – Time Tracking & Productivity Analytics",
+  "version": "1.0",
+  "permissions": ["tabs", "storage", "activeTab"],
+  "background": {
+    "service_worker": "task4-background.js"
+  },
+  "action": {
+    "default_popup": "task4-popup.html"
+  }
+}
