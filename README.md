@@ -16,3 +16,5 @@ The Chrome Extension for Time Tracking and Productivity Analytics (Task4) is a b
 The extension runs in the background while the user browses the web and records the duration spent on each website. The collected data is then displayed in an easy-to-understand popup interface, allowing users to analyze their browsing habits and improve productivity.
 
 OUTPUT:-
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ee7e4951-d343-4e2c-b602-306c82848c8a" />
